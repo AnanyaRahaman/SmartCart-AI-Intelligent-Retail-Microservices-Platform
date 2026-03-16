@@ -1,0 +1,8 @@
+fastapi
+langchain
+openai
+chromadb
+psycopg2
+pandas
+scikit-learn
+psycopg2-binary

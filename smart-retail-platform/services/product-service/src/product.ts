@@ -1,0 +1,20 @@
+export const products = [
+{
+ id:1,
+ name:"Laptop",
+ price:1200,
+ stock:10
+},
+{
+ id:2,
+ name:"Keyboard",
+ price:80,
+ stock:30
+},
+{
+ id:3,
+ name:"Mouse",
+ price:40,
+ stock:50
+}
+];
