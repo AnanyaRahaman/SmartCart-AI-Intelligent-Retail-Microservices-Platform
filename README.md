@@ -349,7 +349,7 @@ Kubernetes enables:
 
 git clone https://github.com/AnanyaRahaman/SmartCart-AI-Intelligent-Retail-Microservices-Platform.git
 
-cd smartcart-ai
+cd SmartCart-AI-Intelligent-Retail-Microservices-Platform
 
 ---
 
