@@ -451,7 +451,3 @@ Potential enhancements for the platform include:
 * multi-agent AI shopping assistant
 
 ---
-
-# License
-
-MIT License
